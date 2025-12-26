@@ -17,7 +17,8 @@ iRON = os.environ
 REPO = {
     'A1111': 'https://github.com/gutris1/A1111',
     'Forge': 'https://github.com/lllyasviel/stable-diffusion-webui-forge Forge',
-    'ReForge': '-b main-old https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
+    #'ReForge': '-b main-old https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
+    'ReForge': 'https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
     'Forge-Classic': 'https://github.com/Haoming02/sd-webui-forge-classic Forge-Classic',
     'Forge-Neo': '-b neo https://github.com/Haoming02/sd-webui-forge-classic Forge-Neo',
     'ComfyUI': 'https://github.com/comfyanonymous/ComfyUI',
