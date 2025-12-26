@@ -21,7 +21,9 @@ REPO = {
     'ReForge': 'https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
     'Forge-Classic': 'https://github.com/Haoming02/sd-webui-forge-classic Forge-Classic',
     'Forge-Neo': '-b neo https://github.com/Haoming02/sd-webui-forge-classic Forge-Neo',
-    'ComfyUI': 'https://github.com/comfyanonymous/ComfyUI',
+    #'ComfyUI': 'https://github.com/comfyanonymous/ComfyUI',
+    'ComfyUI': 'https://github.com/Anzhc/ComfyUI-sdxl-flux2vae-support',
+    #https://github.com/Anzhc/ComfyUI-sdxl-flux2vae-support.git
     'SwarmUI': 'https://github.com/mcmonkeyprojects/SwarmUI'
 }
 
